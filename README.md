@@ -2,7 +2,7 @@
 CRUD application is done using Maven, Spring, MySQL, Hibernate<br>
 <br>
 General view of the application:
-![alt text](https://github.com/GrGohan/PhoneBookCRUD/blob/master/screenshots/1.png?raw=true)
+![](screenshots/1.png)
 Implementation of search by contacts, for example, Name:
 ![alt text](https://github.com/GrGohan/PhoneBookCRUD/blob/master/screenshots/2(search).png?raw=true)
 Example of editing a contact from the list:
